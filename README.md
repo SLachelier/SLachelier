@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am a full-stack developer with a love for front-end development and tailwind css.</h3>
+<h3 align="left">I am a full-stack developer with a love for front-end development and Tailwind CSS.</h3>
 
 ###
 
