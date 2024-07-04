@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩‍💻 I'm currently working on a mental health exercise assistant that suggests exercises to the user and provides weekly reminders.<br><br>🧠 I'm currently learning how to create data visualization with D3.js and Kaggle.<br><br>👯‍♀️ I'm looking to collaborate on projects that improve the daily lives of others.<br><br>🤔 I'm looking for help with finding a dev team that will allow me to grow in my career.<br><br>📫 You can reach me via LinkedIn or via E-mail at: slachelier@gmail.com<br><br>😄 My pronouns are She/Her.</p>
+<p align="left">👩‍💻 I'm currently working on a real-time chat app using Next.js.<br><br>🧠 I'm currently learning how to create data visualization with D3.js and Kaggle.<br><br>👯‍♀️ I'm looking to collaborate on projects that improve the daily lives of others.<br><br>🤔 I'm looking for help with finding a dev team that will allow me to grow in my career.<br><br>📫 You can reach me via LinkedIn or via E-mail at: slachelier@gmail.com<br><br>😄 My pronouns are She/Her.</p>
 
 ###
 
