@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩‍💻 I'm currently working on a real-time chat app using Next.js.<br><br>🧠 I'm currently learning how to create data visualization with D3.js and Kaggle.<br><br>👯‍♀️ I'm looking to collaborate on projects that improve the daily lives of others.<br><br>🤔 I'm looking for help with finding a dev team that will allow me to grow in my career.<br><br>📫 You can reach me via LinkedIn or via E-mail at: slachelier@gmail.com<br><br>😄 My pronouns are She/Her.</p>
+<p align="left">👩‍💻 I'm currently working on a visual novel creation and publishing platform using NextJS with the MERN stack.<br><br>🧠 I am also currently learning new technologies to take my database management skills to the next level.<br><br>👯‍♀️ I love collaborating on projects that improve the daily lives of others.<br><br>🤔 I'm looking for help with finding a dev team that will allow me to grow and learn the latest technologies.<br><br>📫 You can reach me via LinkedIn or via E-mail at: slachelier@gmail.com<br><br>😄 My pronouns are She/Her.</p>
 
 ###
 
@@ -101,6 +101,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
