@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am a full-stack developer with a love for front-end development and Next.js.</h3>
+<h3 align="left">I am a full-stack developer with a love for Next.js and developing intuitive UX design.</h3>
 
 ###
 
