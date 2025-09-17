@@ -10,14 +10,6 @@
 
 ###
 
-<h3 align="left">My Breakdown:</h3>
-
-###
-
-<br clear="both">
-
-###
-
 <h3 align="left">My Technologies:</h3>
 
 ###
