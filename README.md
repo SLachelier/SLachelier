@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩‍💻 I'm currently working on a visual novel creation and publishing platform using NextJS with the MERN stack.<br><br>🧠 I am also currently learning new technologies to take my database management skills to the next level.<br><br>👯‍♀️ I love collaborating on projects that improve the daily lives of others.<br><br>🤔 I'm looking for help with finding a dev team that will allow me to grow and learn the latest technologies.<br><br>📫 You can reach me via LinkedIn or via E-mail at: slachelier@gmail.com<br><br></p>
+<p align="left">👩‍💻 I'm currently working on a visual novel creation and publishing platform using NextJS with the MERN stack.<br><br>🧠 I am also currently learning new technologies to take my Machine Learning and database management skills to the next level.<br><br>👯‍♀️ I love collaborating on projects that improve the daily lives of others.<br><br>🤔 I'm looking for help with finding a dev team that will allow me to grow and learn the latest technologies.<br><br>📫 You can reach me via LinkedIn or via E-mail at: slachelier@gmail.com<br><br></p>
 
 ###
 
